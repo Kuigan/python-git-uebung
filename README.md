@@ -1,0 +1,1 @@
+Zuerstz wird abgefragt, wie der Name des Benutzers ist und dann wird die Begrüßung mit dem Namen ausgegeben.
